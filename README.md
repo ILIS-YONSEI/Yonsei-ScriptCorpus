@@ -14,7 +14,7 @@ Conversation text data are in the two dataset folers (dataset_type1, 2), and the
 Dataset_type1: inclusive of context texts (지문)
 Dataset_type2: exclusive of context texts
 * All conversations are between two persons.
-** Sometimes one of them says nothing but shows non-linguistic or paralinguistic expression. <move/> and <mute/> tags represent this type of expression. You can remove or keep them as you want.
+* Sometimes one of them says nothing but shows non-linguistic or paralinguistic expression. <move/> and <mute/> tags represent this type of expression. You can remove or keep them as you want.
 
 Column names of text data files
 No: serial number
